@@ -1,0 +1,22 @@
+{
+    "name": "Colour Loop LEDs",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "BitBot": "github:4tronix/bitbot#1.3.0",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
